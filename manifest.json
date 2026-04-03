@@ -1,0 +1,20 @@
+{
+  "name": "Ruben Chavez | Realtor",
+  "short_name": "Ruben Chavez",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f0f4f8",
+  "theme_color": "#145da0",
+  "icons": [
+    {
+      "src": "https://analia98.github.io/tsm-cards/ruben.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://analia98.github.io/tsm-cards/ruben.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
