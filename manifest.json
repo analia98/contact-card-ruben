@@ -7,12 +7,12 @@
   "theme_color": "#145da0",
   "icons": [
     {
-      "src": "https://analia98.github.io/contact-card/ruben.png",
+      "src": "https://analia98.github.io/contact-card-ruben/ruben.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://analia98.github.io/contact-card/ruben.png",
+      "src": "https://analia98.github.io/contact-card-ruben/ruben.png",
       "sizes": "512x512",
       "type": "image/png"
     }
